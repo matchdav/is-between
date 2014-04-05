@@ -9,6 +9,11 @@
 
     $ component install matchdav/is-between
 
+
+  Install with npm:
+
+    $ npm install is-between
+
 ## API
 
 ```javascript
