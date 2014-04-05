@@ -1,0 +1,27 @@
+{
+  "name": "is-between",
+  "version": "0.0.0",
+  "description": "Check if a number is between a min and max",
+  "main": "index.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matchdav/is-between"
+  },
+  "keywords": [
+    "number",
+    "range"
+  ],
+  "author": "Matthew Davidson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matchdav/is-between/issues"
+  },
+  "homepage": "https://github.com/matchdav/is-between",
+  "devDependencies": {
+    "should": "^3.2.0",
+    "mocha": "^1.18.2"
+  }
+}
