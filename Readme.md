@@ -26,7 +26,7 @@ For more details on behaviour, here are the unit tests:
 
 ```javascript
 
-var between = require('..');
+var between = require('is-between');
 require('should');
 
 describe('between',function(){
