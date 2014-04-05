@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/matchdav/is-between.svg?branch=master)](https://travis-ci.org/matchdav/is-between)
 
 # is-between
 
